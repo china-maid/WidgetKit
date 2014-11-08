@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B3F5D5FF-DFFF-4CEE-88EF-2181BA063338</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WidgetKitHostApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D71B0A9E30165DE46F8EA55643CE165832016E6D</key>
+		<string>https://github.com/china-maid/WidgetKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WidgetKitHostApp/WidgetKitHostApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D71B0A9E30165DE46F8EA55643CE165832016E6D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/china-maid/WidgetKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D71B0A9E30165DE46F8EA55643CE165832016E6D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D71B0A9E30165DE46F8EA55643CE165832016E6D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WidgetKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
